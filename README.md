@@ -13,4 +13,4 @@ GitHub token from `app-config.local.yaml` is not included in My Backstage App re
 
 Newly created API is deployed to https://www.mat.lv/MyApi/ (site is only available during work hours or on specific demand via email)
 
-I consider all goals in assessment are achived. And newly created API is deployed as additional step. 
+I consider all goals in assessment are achieved. And newly created API is deployed as additional step. 
